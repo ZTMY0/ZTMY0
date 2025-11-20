@@ -87,7 +87,7 @@
 
 <p align="left">
  <strong>Languages:</strong> Python, C/C++, JavaScript, HTML5/CSS<br>
- <strong>Tools:</strong> Linux, Docker, MySQL<br>
+ <strong>Tools:</strong> Linux, Docker, MySQL, Jira<br>
  <strong>Security:</strong> Learning how to spot weird behavior in logs, just started with VMs<br>
  <strong>Interested In:</strong> SOC tools, threat detection, DevSecOps workflows, IOC fundamentals
 </p>
