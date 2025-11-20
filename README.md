@@ -1,7 +1,4 @@
-
-
 ###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/zaghdane-ihab-6b7947366/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -23,25 +20,18 @@
 
 ###
 
-<h3 align="center">cybersecurity student</h3>
-
-###
-
-<h3 align="left">🙋‍♂️  About Me</h3>
+<h3 align="center">Cybersecurity Student</h3>
 
 ###
 
 <p align="left">
- Studying cybersecurity, aiming for SOC analyst roles<br><br>
- Interested in DevSecOps and integrating security into development<br><br>
- Fascinated by DRM and anti-tampering mechanisms<br><br>
- Currently learning threat detection, incident response, and secure coding<br><br>
- Check out my projects below
+ Really interested in SOC analysis and DevSecOps<br><br>
+ Trying to build hands-on projects<br><br>
 </p>
 
 ###
 
-<h3 align="left">💻 Featured Projects</h3>
+<h3 align="left"> What I'm Working On</h3>
 
 ###
 
@@ -49,14 +39,41 @@
   <a href="https://github.com/ZTMY0/antivirus-simulator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZTMY0&repo=antivirus-simulator&theme=dark" alt="Antivirus Simulator" />
   </a>
-  <a href="https://github.com/ZTMY0/MATLAB-Hand-Gesture-Pong">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZTMY0&repo=MATLAB-Hand-Gesture-Pong&theme=dark" alt="MATLAB Hand Gesture Pong" />
-  </a>
 </div>
 
 ###
 
+<p align="left">
+ <strong> Current Projects:</strong><br>
+ • Malicious Login Detector - Using data structures to detect brute-force attacks (group project)<br>
+ • Honeypot Lab - Setting up Cowrie in Docker<br>
+ • ARP Spoofing MITM Demo - Learning about network attacks and how to detect them<br>
+ • DHCP Server Setup - Building and securing a DHCP server from scratch<br>
+</p>
+
+###
+
+<p align="left">
+ <strong> Want to Try:</strong><br>
+ • Something with network traffic<br>
+ • Basic security automation scripts<br>
+ • More CTF challenges<br>
+ • Setting up basic Azure/AWS VMs for labs<br>
+ • Learn more about VirusTotal API integration<br>
+ 
+
+</p>
+
+###
+
+<h3 align="left"> Side Projects</h3>
+
+###
+
 <div align="center">
+  <a href="https://github.com/ZTMY0/MATLAB-Hand-Gesture-Pong">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZTMY0&repo=MATLAB-Hand-Gesture-Pong&theme=dark" alt="MATLAB Hand Gesture Pong" />
+  </a>
   <a href="https://github.com/ZTMY0/PongGameRemake">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZTMY0&repo=PongGameRemake&theme=dark" alt="Pong Game Remake" />
   </a>
@@ -64,17 +81,22 @@
 
 ###
 
+<h3 align="left"> What I'm Learning</h3>
+
+###
+
 <p align="left">
- <strong>In Progress:</strong> Malicious Login Detector - A data structure approach to brute-force attack detection (Group Project)
+ <strong>Languages:</strong> Python, C/C++, JavaScript, HTML5/CSS<br>
+ <strong>Tools:</strong> Linux, Docker, MySQL<br>
+ <strong>Security:</strong> Learning how to spot weird behavior in logs, just started with VMs<br>
+ <strong>Interested In:</strong> SOC tools, threat detection, DevSecOps workflows, IOC fundamentals
 </p>
 
 ###
 
-<h3 align="left">🚀 Languages and Tools</h3>
-
-###
-
 <div align="left">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" height="40" alt="c logo"  />
+  <img width="12" />
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="40" alt="c++ logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/color/48/000000/python.png" height="40" alt="python logo"  />
@@ -92,7 +114,7 @@
 
 ###
 
-<h3 align="left">   My Stats :</h3>
+<h3 align="left">📊 My Stats</h3>
 
 ###
 
