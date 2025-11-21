@@ -25,7 +25,7 @@
 ###
 
 <p align="left">
- Really interested in penetration testing and cloud security<br><br>
+ Interested in penetration testing and cloud security<br><br>
  Trying to build hands-on projects<br><br>
 </p>
 
