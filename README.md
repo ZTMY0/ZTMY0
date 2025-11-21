@@ -25,7 +25,7 @@
 ###
 
 <p align="left">
- Really interested in SOC analysis and DevSecOps<br><br>
+ Really interested in penetration testing and cloud security<br><br>
  Trying to build hands-on projects<br><br>
 </p>
 
@@ -55,11 +55,11 @@
 
 <p align="left">
  <strong> Want to Try:</strong><br>
- • Something with network traffic<br>
- • Basic security automation scripts<br>
- • More CTF challenges<br>
+ • Network traffic analysis<br>
+ • Basic vulnerability scanning<br>
+ • Web app security testing basics<br>
  • Setting up basic Azure/AWS VMs for labs<br>
- • Learn more about VirusTotal API integration<br>
+ • Learning about cloud misconfigurations<br>
  
 
 </p>
@@ -86,10 +86,10 @@
 ###
 
 <p align="left">
- <strong>Languages:</strong> Python, C/C++, JavaScript, HTML5/CSS<br>
- <strong>Tools:</strong> Linux, Docker, MySQL, Jira<br>
- <strong>Security:</strong> Learning how to spot weird behavior in logs, just started with VMs<br>
- <strong>Interested In:</strong> SOC tools, threat detection, DevSecOps workflows, IOC fundamentals
+ <strong>Languages:</strong> Python, C/C++, JavaScript, Bash<br>
+ <strong>Tools:</strong> Docker, MySQL, Nmap, Wireshark, Hydra <br>
+ <strong>Security:</strong> Just getting started with security labs <br>
+ <strong>Interested In:</strong> Ethical hacking, web app testing, cloud security, vulnerability assessment
 </p>
 
 ###
