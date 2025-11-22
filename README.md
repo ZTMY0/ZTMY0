@@ -1,4 +1,3 @@
-###
 <div align="center">
   <a href="https://www.linkedin.com/in/zaghdane-ihab-6b7947366/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -41,10 +40,16 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/iliasszrq/Dockerized-cowrie">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iliasszrq&repo=Dockerized-cowrie&theme=dark" alt="Dockerized Cowrie" />
+  </a>
+</div>
+
 ###
 
 <p align="left">
- <strong> Current Projects:</strong><br>
+ <strong>Current Projects:</strong><br>
  • Malicious Login Detector - Using data structures to detect brute-force attacks (group project)<br>
  • Honeypot Lab - Setting up Cowrie in Docker<br>
  • ARP Spoofing MITM Demo - Learning about network attacks and how to detect them<br>
@@ -53,22 +58,7 @@
 
 ###
 
-<p align="left">
- <strong> Want to Try:</strong><br>
- • Network traffic analysis<br>
- • Basic vulnerability scanning<br>
- • Web app security testing basics<br>
- • Setting up basic Azure/AWS VMs for labs<br>
- • Learning about cloud misconfigurations<br>
- 
-
-</p>
-
-###
-
 <h3 align="left"> Side Projects</h3>
-
-###
 
 <div align="center">
   <a href="https://github.com/ZTMY0/MATLAB-Hand-Gesture-Pong">
@@ -82,8 +72,6 @@
 ###
 
 <h3 align="left"> What I'm Learning</h3>
-
-###
 
 <p align="left">
  <strong>Languages:</strong> Python, C/C++, JavaScript, Bash<br>
@@ -114,13 +102,9 @@
 
 ###
 
-<h3 align="left">📊 My Stats</h3>
-
-###
+<h3 align="left"> My Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZTMY0&show_icons=true&theme=dark&hide_border=false" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZTMY0&layout=compact&theme=dark&hide_border=false" height="180" alt="languages graph"  />
 </div>
-
-###
