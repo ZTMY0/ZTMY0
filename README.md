@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left"> What I'm Working On</h3>
+<h3 align="left"> Current Projects </h3>
 
 ###
 
@@ -49,11 +49,9 @@
 ###
 
 <p align="left">
- <strong>Current Projects:</strong><br>
+ <strong>What I'm Working On:</strong><br>
  • Malicious Login Detector - Using data structures to detect brute-force attacks (group project)<br>
- • Honeypot Lab - Setting up Cowrie in Docker<br>
  • ARP Spoofing MITM Demo - Learning about network attacks and how to detect them<br>
- • DHCP Server Setup - Building and securing a DHCP server from scratch<br>
 </p>
 
 ###
