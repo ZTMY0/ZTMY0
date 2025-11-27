@@ -51,7 +51,7 @@
 <p align="left">
  <strong>What I'm Working On:</strong><br>
  • Malicious Login Detector - Using data structures to detect brute-force attacks (group project)<br>
- • ARP Spoofing MITM Demo - Learning about network attacks and how to detect them<br>
+ • ARP Spoofing MITM - Learning about network attacks and how to detect them<br>
 </p>
 
 ###
