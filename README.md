@@ -37,7 +37,7 @@
 #### [Antivirus Simulator](https://github.com/ZTMY0/antivirus-simulator)
 Building a custom antivirus simulation tool to understand malware detection techniques and signature-based scanning.
 
-**Tech Stack:** Python, File System Analysis
+**Tech Stack:** C , File System Analysis
 
 </td>
 <td width="50%" valign="top">
