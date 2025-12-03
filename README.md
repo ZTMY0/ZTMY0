@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZTMY0.ZTMY0&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZTMY0.ZTMY0"  />
 </div>
 
 ###
@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ZTMY0/Dockerized-cowrie">
+  <a href="https://github.com/iliasszrq/Dockerized-cowrie">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=iliasszrq&repo=Dockerized-cowrie&theme=dark" alt="Dockerized Cowrie" />
   </a>
 </div>
@@ -52,6 +52,7 @@
  <strong>What I'm Working On:</strong><br>
  • Malicious Login Detector - Using data structures to detect brute-force attacks (group project)<br>
  • ARP Spoofing MITM - Learning about network attacks and detection techniques<br>
+ • Security monitoring lab environment using Docker
 </p>
 
 ###
