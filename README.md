@@ -61,7 +61,7 @@ SSH/Telnet honeypot deployment using Docker for logging and analyzing attack pat
 ###  Skills & Tools
 
 ```text
-Languages:       Python • C/C++ • JavaScript • Bash
+Languages:       Python • C/C++ • PHP • Bash
 Security Tools:  Nmap • Wireshark • Hydra • Docker
 Technologies:    MySQL • Linux • Network Analysis
 Learning:        SIEM tools • Log analysis • Threat detection • Cloud security
@@ -74,7 +74,7 @@ Learning:        SIEM tools • Log analysis • Threat detection • Cloud secu
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"  />
   <img width="12" />
@@ -140,7 +140,7 @@ Classic Pong game remake with modern features and smooth gameplay mechanics.
 
 <div align="center">
   
-**💡 "The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room."** 
+** "The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room."** 
 
 *~ Gene Spafford*
 
