@@ -19,18 +19,18 @@
 
 ###
 
-<h3 align="center">Cybersecurity Student</h3>
+<h3 align="center">Cybersecurity Student | SOC & Cloud Security Enthusiast</h3>
 
 ###
 
 <p align="left">
- Interested in penetration testing and cloud security<br><br>
- Trying to build hands-on projects<br><br>
+ Building hands-on security projects and developing skills in threat detection and cloud security<br><br>
+ Focused on learning SOC operations, network security, and defensive security practices
 </p>
 
 ###
 
-<h3 align="left"> Current Projects </h3>
+<h3 align="left">Current Security Projects</h3>
 
 ###
 
@@ -51,12 +51,41 @@
 <p align="left">
  <strong>What I'm Working On:</strong><br>
  • Malicious Login Detector - Using data structures to detect brute-force attacks (group project)<br>
- • ARP Spoofing MITM - Learning about network attacks and how to detect them<br>
+ • ARP Spoofing MITM - Learning about network attacks and detection techniques<br>
 </p>
 
 ###
 
-<h3 align="left"> Side Projects</h3>
+<h3 align="left">Skills & Tools</h3>
+
+<p align="left">
+ <strong>Languages:</strong> Python, C/C++, JavaScript, Bash<br>
+ <strong>Security Tools:</strong> Nmap, Wireshark, Hydra, Docker<br>
+ <strong>Technologies:</strong> MySQL, Linux, Network Analysis<br>
+ <strong>Learning:</strong> SIEM tools, log analysis, threat detection, cloud security fundamentals
+</p>
+
+###
+
+<div align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="40" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/000000/linux--v1.png" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="sql logo"  />
+</div>
+
+###
+
+<h3 align="left">Side Projects</h3>
 
 <div align="center">
   <a href="https://github.com/ZTMY0/MATLAB-Hand-Gesture-Pong">
@@ -69,38 +98,7 @@
 
 ###
 
-<h3 align="left"> What I'm Learning</h3>
-
-<p align="left">
- <strong>Languages:</strong> Python, C/C++, JavaScript, Bash<br>
- <strong>Tools:</strong> Docker, MySQL, Nmap, Wireshark, Hydra <br>
- <strong>Security:</strong> Just getting started with security labs <br>
- <strong>Interested In:</strong> Ethical hacking, web app testing, cloud security, vulnerability assessment
-</p>
-
-###
-
-<div align="left">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height="40" alt="c++ logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/linux--v1.png" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="sql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-</div>
-
-###
-
-<h3 align="left"> My Stats</h3>
+<h3 align="left">My Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZTMY0&show_icons=true&theme=dark&hide_border=false" height="180" alt="stats graph"  />
