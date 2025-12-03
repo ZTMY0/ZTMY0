@@ -112,7 +112,7 @@ Classic Pong game remake with modern features and smooth gameplay mechanics.
 
 ---
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 
 <div align="center">
   
@@ -126,26 +126,21 @@ Classic Pong game remake with modern features and smooth gameplay mechanics.
 
 <div align="center">
   <a href="https://github.com/ZTMY0">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZTMY0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="170" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZTMY0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/ZTMY0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTMY0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="170" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZTMY0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
   </a>
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/ZTMY0">
-    <img src="https://streak-stats.demolab.com?user=ZTMY0&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
-</div>
 
 ---
 
 <div align="center">
   
-** "The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room."** 
+**💡 "The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room."** 
 
 *~ Gene Spafford*
 
