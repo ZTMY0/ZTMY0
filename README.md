@@ -16,7 +16,7 @@
 <br/>
 
 <h1 align="center">Hi, I'm Ihab</h1>
-<h3 align="center">Cybersecurity Student | SOC & Cloud Security Enthusiast</h3>
+<h3 align="center">Cybersecurity Student</h3>
 
 <br/>
 
