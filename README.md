@@ -15,104 +15,42 @@
 
 <br/>
 
-<h1 align="center">hey there 👋 i'm ihab</h1>
-
-<h3 align="center"> Cybersecurity Student | SOC & Cloud Security Enthusiast</h3>
+<h1 align="center">Hi, I'm Ihab</h1>
+<h3 align="center">Cybersecurity Student | SOC & Cloud Security Enthusiast</h3>
 
 <br/>
 
-<p align="center">
- Building hands-on security projects and developing skills in threat detection and cloud security<br><br>
- Focused on learning SOC operations, network security, and defensive security practices
-</p>
+### Languages
 
----
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-###  Current Security Projects
+### Technologies & Tools
 
-<table>
-<tr>
-<td width="50%" valign="top">
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Apache Guacamole](https://img.shields.io/badge/-Apache%20Guacamole-000?&logo=apache&logoColor=red)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000?&logo=kalilinux)
+![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=Wireshark)
+![Nmap](https://img.shields.io/badge/-Nmap-000?&logo=Nmap)
+![Metasploit](https://img.shields.io/badge/-Metasploit-000?&logo=metasploit)
+![Hydra](https://img.shields.io/badge/-Hydra-000?&logo=hackthebox&logoColor=white)
 
-#### [Antivirus Simulator](https://github.com/ZTMY0/antivirus-simulator)
-Building a custom antivirus simulation tool to understand malware detection techniques and signature-based scanning.
+### Security Projects
 
-**Tech Stack:** C , File System Analysis
+[![](https://img.shields.io/badge/-%20Project%20Cerberus-000)](https://github.com/ZTMY0/Project-Cerberus)
+[![](https://img.shields.io/badge/-%20Dockerized%20Cowrie-000)](https://github.com/iliasszrq/Dockerized-cowrie)
+[![](https://img.shields.io/badge/-%20Antivirus%20Simulator-000)](https://github.com/ZTMY0/antivirus-simulator)
 
-</td>
-<td width="50%" valign="top">
+### Side Projects
 
-#### [Dockerized Cowrie](https://github.com/iliasszrq/Dockerized-cowrie)
-SSH/Telnet honeypot deployment using Docker for logging and analyzing attack patterns.
+[![](https://img.shields.io/badge/-%20MATLAB%20Gesture%20Pong-000)](https://github.com/ZTMY0/MATLAB-Hand-Gesture-Pong)
+[![](https://img.shields.io/badge/-%20Pong%20Remake%20(Raylib)-000)](https://github.com/ZTMY0/PongGameRemake)
 
-**Tech Stack:** Docker, Python, Linux
-
-</td>
-</tr>
-</table>
-
-** What I'm Working On:**
--  Malicious Login Detector - Using data structures to detect brute-force attacks (group project)
--  ARP Spoofing MITM - Learning about network attacks and detection techniques
--  Security monitoring lab environment using Docker
-
----
-
-###  Skills & Tools
-
-```text
-Languages:       Python • C/C++ • PHP • Bash
-Security Tools:  Nmap • Wireshark • Hydra • Docker
-Technologies:    MySQL • Linux • Network Analysis
-Learning:        SIEM tools • Log analysis • Threat detection • Cloud security
-```
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash"  />
-</div>
-
----
-
-###  Side Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### [MATLAB Hand Gesture Pong](https://github.com/ZTMY0/MATLAB-Hand-Gesture-Pong)
-Interactive Pong game controlled by hand gestures using computer vision and MATLAB.
-
-**Tech Stack:** MATLAB, Computer Vision
-
-</td>
-<td width="50%" valign="top">
-
-#### [Pong Game Remake](https://github.com/ZTMY0/PongGameRemake)
-Classic Pong game remake with modern features and smooth gameplay mechanics.
-
-**Tech Stack:** C++, Raylib
-
-</td>
-</tr>
-</table>
-
----
-
-###  GitHub Statistics
+<br />
 
 <div align="center">
   
