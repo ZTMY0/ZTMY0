@@ -44,6 +44,8 @@
 [![](https://img.shields.io/badge/-%20Project%20Cerberus-000)](https://github.com/ZTMY0/Project-Cerberus)
 [![](https://img.shields.io/badge/-%20Dockerized%20Cowrie-000)](https://github.com/iliasszrq/Dockerized-cowrie)
 [![](https://img.shields.io/badge/-%20Antivirus%20Simulator-000)](https://github.com/ZTMY0/antivirus-simulator)
+[![](https://img.shields.io/badge/-%20Network%20Lab%20(GNS3)-000)](https://github.com/ZTMY0/Projet-Reseau-GNS3)
+[![](https://img.shields.io/badge/-%20PFE%20Management%20System-000)](https://github.com/ZTMY0/Gestion-Soutenances)
 
 ### Side Projects
 
