@@ -59,7 +59,7 @@
 [![](https://img.shields.io/badge/-%20Antivirus%20Simulator-000)](https://github.com/ZTMY0/antivirus-simulator)
 [![](https://img.shields.io/badge/-%20Network%20Lab%20(GNS3)-000)](https://github.com/ZTMY0/Projet-Reseau-GNS3)
 [![](https://img.shields.io/badge/-%20PFE%20Management%20System-000)](https://github.com/ZTMY0/Gestion-Soutenances)
-
+[![](https://img.shields.io/badge/-%20LKM%20Rootkit%20Detector-000)](https://github.com/ZTMY0/LKM-Rootkit-Detector)
 ### Academic & Foundation Projects
 
 [![](https://img.shields.io/badge/-%20Computer%20Vision%20Gesture%20Interface%20(MATLAB)-000)](https://github.com/ZTMY0/MATLAB-Hand-Gesture-Pong)
